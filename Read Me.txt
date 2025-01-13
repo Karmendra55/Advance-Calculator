@@ -1,0 +1,32 @@
+This is an Advance Calculator, With the Functionalities Given Below.
+a. On First Screen
+	1. Arithmatic Operators
+	2. Assignment Operators
+	3. Comparison Operators
+	4. Logical Operators
+	5. To Change Values
+	9. Exit the Program
+	0. For More Options
+b. On Second Screen (By Choosing 0)
+	6. Scientific
+		a. Single Value Changes
+		b. Double Value Changes
+		c. Complex NumbersOperations
+	7. Number System and Trigonometry
+		a. Different Bases(2, 8, 10, 16)
+		b. Trigonometry Operations
+		c. Hyperbolic Operation
+	8. Random and General Operations
+		a. Statistics
+		b. Area, Perimeter, Volume and Surface Area
+		c. Principal Interest
+		d. For Random Operations
+	9. Exit The Program
+	10. To Go Back to the First Screen
+	11. Changes the current Values
+	12. To Check all the Operations Performed in this session.
+
+If you would like to see the full history, There will be a file in 'util' as history.txt where all the operations are saved.
+
+If any issues or queries, Reach me on: karmendra5902@gmail.com
+Redistribution without the permission is not acceptable.
